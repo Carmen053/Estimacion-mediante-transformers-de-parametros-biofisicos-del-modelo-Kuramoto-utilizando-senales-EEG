@@ -6,5 +6,6 @@ En este repositorio encontraremos los siguientes documentos:
 
 - Datos usados para el desarrollo del modelo:
 - Datos usados para la prueba con nodos apagados
-- Código necesario para desarrollar el modelo (eligiendo entre 4, 121, 256, 496 clases)
+- Código necesario para desarrollar el modelo con transformers (eligiendo entre 4, 121, 256, 496 clases)
+- Código necesario para desarrollar el modelo con convolucionales (4 clases)
 - Código necesario para desarrollar las pruebas con nodos apagados
